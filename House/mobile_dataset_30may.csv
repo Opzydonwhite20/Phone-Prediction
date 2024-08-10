@@ -1,0 +1,435 @@
+Brand,Model,Year,RAM,Weight,SIM,Internal_Memory,Average_Price,Age,Camera,Battery,Launching_Price,Warranty,Repaired,Scratches,Assesories,BOX,Condition,Used_Price
+Samsung,Galaxy S7,2016,4,152,Single,32,200 - 400,7,"12 MP (rear), 5 MP (front)",3000,200,0,1,0,0,0,0,76
+Samsung,Galaxy S7,2016,4,152,Single,64,300 - 500,0,"12 MP (rear), 5 MP (front)",3000,300,0,1,0,0,0,0,114
+Samsung,Galaxy S7,2016,4,152,Single,128,400 - 600,7,"12 MP (rear), 5 MP (front)",3000,400,0,1,0,1,1,0,292
+Samsung,Galaxy S7 Edge,2016,4,157,Single,32,250 - 450,7,"12 MP (rear), 5 MP (front)",3600,250,0,0,1,1,0,1,95
+Samsung,Galaxy S7 Edge,2016,4,157,Single,64,350 - 550,7,"12 MP (rear), 5 MP (front)",3600,350,0,0,0,0,1,0.5,255.5
+Samsung,Galaxy S7 Edge,2016,4,157,Single,128,450 - 650,7,"12 MP (rear), 5 MP (front)",3600,450,0,1,0,0,0,0,171
+Samsung,Galaxy S8,2017,4,155,Single,64,400 - 500,6,"12 MP (rear), 8 MP (front)",3000,400,0,0,0,1,0,0,152
+Samsung,Galaxy S8,2017,4,155,Single,128,500 - 600,6,"12 MP (rear), 8 MP (front)",3000,500,0,0,0,0,1,0.5,365
+Samsung,Galaxy S8 Plus,2017,4,173,Single,64,450 - 550,6,"12 MP (rear), 8 MP (front)",3500,450,0,1,1,1,0,0,171
+Samsung,Galaxy S8 Plus,2017,4,173,Single,128,550 - 650,6,"12 MP (rear), 8 MP (front)",3500,550,0,0,0,0,1,0.5,401.5
+Samsung,Galaxy S9,2018,4,163,Single,64,500 - 650,5,"12 MP (rear), 8 MP (front)",3000,500,0,1,1,0,0,0,190
+Samsung,Galaxy S9,2018,4,163,Single,128,600 - 750,5,"12 MP (rear), 8 MP (front)",3000,600,0,1,1,1,1,0,438
+Samsung,Galaxy S9 Plus,2018,6,189,Single,64,600 - 750,5,"Dual 12 MP (rear), 8 MP (front)",3500,600,0,1,1,0,1,0,438
+Samsung,Galaxy S9 Plus,2018,6,189,Single,128,700 - 850,5,"Dual 12 MP (rear), 8 MP (front)",3500,700,0,1,1,0,0,0,266
+Samsung,Galaxy S10,2019,8,157,Single,128,750 - 900,4,"Triple 12 MP (rear), 10 MP (front)",3400,750,0,1,0,0,0,0,285
+Samsung,Galaxy S10,2019,8,157,Single,512,"1,000 - 1,200",4,"Triple 12 MP (rear), 10 MP (front)",3400,"1,000",0,0,1,0,1,1,730
+Samsung,Galaxy S10 Plus,2019,8,175,Single,128,"850 - 1,000",4,"Triple 12 MP (rear), 10 MP (front)",4100,850,0,0,0,0,1,0.5,620.5
+Samsung,Galaxy S10 Plus,2019,8,175,Single,512,"1,100 - 1,300",4,"Triple 12 MP (rear), 10 MP (front)",4100,"1,100",0,0,1,1,0,1,418
+Samsung,Galaxy S20,2020,8,163,Single,128,"800 - 1,000",3,"Triple 12 MP (rear), 10 MP (front)",4000,800,0,0,0,0,0,0.5,304
+Samsung,Galaxy S20,2020,8,163,Single,256,"900 - 1,100",3,"Triple 12 MP (rear), 10 MP (front)",4000,900,0,1,0,1,1,0,657
+Samsung,Galaxy S20,2020,8,163,Single,512,"1,100 - 1,300",3,"Triple 12 MP (rear), 10 MP (front)",4000,"1,100",0,1,1,1,1,0,803
+Samsung,Galaxy S20 Plus,2020,8,186,Single,128,"1,000 - 1,200",3,"Quad 12 MP (rear), 10 MP (front)",4500,"1,000",0,1,0,1,0,0,380
+Samsung,Galaxy S20 Plus,2020,8,186,Single,256,"1,100 - 1,300",3,"Quad 12 MP (rear), 10 MP (front)",4500,"1,100",0,0,0,0,0,0.5,418
+Samsung,Galaxy S20 Plus,2020,8,186,Single,512,"1,300 - 1,500",3,"Quad 12 MP (rear), 10 MP (front)",4500,"1,300",0,1,0,0,0,0,494
+Samsung,Galaxy S21,2021,8,169,Single,128,"800 - 1,000",2,"Triple 12 MP (rear), 10 MP (front)",4000,800,0,0,0,1,1,1,584
+Samsung,Galaxy S21,2021,8,169,Single,256,"900 - 1,100",2,"Triple 12 MP (rear), 10 MP (front)",4000,900,0,1,0,1,1,0,657
+Samsung,Galaxy S21,2021,8,169,Single,512,"1,100 - 1,300",2,"Triple 12 MP (rear), 10 MP (front)",4000,"1,100",0,1,0,0,0,0,418
+Samsung,Galaxy S21 Plus,2021,8,200,Single,128,"1,000 - 1,200",2,"Quad 12 MP (rear), 10 MP (front)",4800,"1,000",0,1,0,0,0,0,380
+Samsung,Galaxy Note 7,2016,4,169,Nano-SIM,64,700 - 800,5,"12 MP (rear), 5 MP (front)",3500,700,0,1,1,1,0,0,266
+Samsung,Galaxy Note 8,2017,6,195,Nano-SIM,64,800 - 900,4,"Dual 12 MP (rear), 8 MP (front)",3300,800,0,1,1,0,0,0,304
+Samsung,Galaxy Note 8,2017,6,195,Nano-SIM,128,"900 - 1,000",4,"Dual 12 MP (rear), 8 MP (front)",3300,900,0,0,1,1,1,1,657
+Samsung,Galaxy Note 9,2018,6,201,Nano-SIM,128,"900 - 1,000",3,"Dual 12 MP (rear), 8 MP (front)",4000,900,0,1,0,0,1,0,657
+Samsung,Galaxy Note 9,2018,8,201,Nano-SIM,512,"1,000 - 1,250",3,"Dual 12 MP (rear), 8 MP (front)",4000,"1,000",0,0,0,1,0,0,380
+Samsung,Galaxy Note 10,2019,8,168,Nano-SIM,256,"900 - 1,100",2,"Quad 12 MP (rear), 10 MP (front)",3500,900,0,1,1,0,1,0,657
+Samsung,Galaxy Note 10,2019,12,168,Nano-SIM,256,"1,000 - 1,200",2,"Quad 12 MP (rear), 10 MP (front)",3500,"1,000",0,0,0,0,0,0.5,380
+Samsung,Galaxy Note 10+,2019,12,196,Nano-SIM,256,"1,100 - 1,300",2,"Quad 12 MP (rear), 10 MP (front)",4300,"1,100",0,0,0,1,1,1,803
+Samsung,Galaxy Note 10+,2019,12,196,Nano-SIM,512,"1,200 - 1,400",2,"Quad 12 MP (rear), 10 MP (front)",4300,"1,200",0,0,1,1,1,1,876
+Samsung,Galaxy Note 20,2020,8,192,Nano-SIM,256,"1,000 - 1,200",1,"Triple 12 MP (rear), 10 MP (front)",4300,"1,000",0,0,1,1,0,1,380
+Samsung,Galaxy Note 20,2020,12,192,Nano-SIM,256,"1,100 - 1,300",1,"Triple 12 MP (rear), 10 MP (front)",4300,"1,100",0,1,0,0,0,0,418
+Samsung,Galaxy Note 20 Ultra,2020,12,208,Nano-SIM,256,"1,300 - 1,500",1,"Triple 108 MP (rear), 10 MP (front)",4500,"1,300",0,0,1,0,1,1,949
+Samsung,Galaxy Note 20 Ultra,2020,12,208,Nano-SIM,512,"1,400 - 1,600",1,"Triple 108 MP (rear), 10 MP (front)",4500,"1,400",0,0,0,1,0,0,532
+Samsung,Galaxy A5,2016,2,155,Single SIM,16,250 - 300,7,"13 MP (rear), 5 MP (front)",2900,250,0,0,1,1,0,1,95
+Samsung,Galaxy A7,2016,3,172,Single SIM,16,300 - 350,7,"13 MP (rear), 5 MP (front)",3300,300,0,1,1,1,1,0,219
+Samsung,Galaxy A8,2018,4,172,Single SIM,32,400 - 450,5,"16 MP (rear), Dual 16 MP (front)",3000,400,0,1,0,1,0,0,152
+Samsung,Galaxy A10,2019,2,168,Dual SIM,32,150 - 200,2,"13 MP (rear), 5 MP (front)",3400,150,0,1,1,1,1,0,109.5
+Samsung,Galaxy A20,2019,3,169,Dual SIM,32,200 - 250,2,"13 MP (rear), 8 MP (front)",4000,200,0,1,1,0,1,0,146
+Samsung,Galaxy A51,2019,4,172,Dual SIM,64,300 - 350,2,"Quad 48 MP (rear), 32 MP (front)",4000,300,0,0,1,1,1,1,219
+Samsung,Galaxy A71,2019,6,179,Dual SIM,128,400 - 450,2,"Quad 64 MP (rear), 32 MP (front)",4500,400,0,1,1,0,1,0,292
+Samsung,Galaxy A32,2021,4,184,Dual SIM,64,250 - 300,0,"Quad 64 MP (rear), 20 MP (front)",5000,250,0,1,0,0,0,0,95
+Samsung,Galaxy A52,2021,6,189,Dual SIM,128,400 - 450,0,"Quad 64 MP (rear), 32 MP (front)",4500,400,0,1,1,0,0,0,152
+Samsung,Galaxy A72,2021,6,203,Dual SIM,128,500 - 550,0,"Quad 64 MP (rear), 12 MP (front)",5000,500,0,1,0,0,0,0,190
+Samsung,Galaxy J7,2016,2,169,Single SIM,16,200 - 250,7,"13 MP (rear), 5 MP (front)",3300,200,0,0,0,1,0,0,76
+Samsung,Galaxy J5,2016,2,159,Single SIM,16,150 - 200,7,"13 MP (rear), 5 MP (front)",3100,150,0,1,0,0,0,0,57
+Samsung,Galaxy J7,2016,2,169,Single SIM,16,200 - 250,7,"13 MP (rear), 5 MP (front)",3300,200,0,1,1,1,1,0,146
+Samsung,Galaxy J3,2017,1.5,142,Single SIM,16,100 - 150,6,"13 MP (rear), 5 MP (front)",2600,100,0,1,1,0,1,0,73
+Samsung,Galaxy J5,2017,2,160,Dual SIM,16,150 - 200,6,"13 MP (rear), 13 MP (front)",3000,150,0,0,1,1,0,1,57
+Samsung,Galaxy J7,2017,3,181,Dual SIM,16,200 - 250,6,"13 MP (rear), 13 MP (front)",3600,200,0,1,1,1,0,0,76
+Samsung,Galaxy J4,2018,2,175,Dual SIM,16,150 - 200,5,"13 MP (rear), 5 MP (front)",3000,150,0,0,1,1,1,1,109.5
+Samsung,Galaxy J6,2018,3,154,Dual SIM,32,200 - 250,5,"13 MP (rear), 8 MP (front)",3000,200,0,0,0,1,0,0,76
+Samsung,Galaxy J8,2018,4,177,Dual SIM,64,250 - 300,5,"16 MP (rear), 16 MP (front)",3500,250,0,0,1,0,0,1,95
+Samsung,Galaxy J7,2019,2,170,Dual SIM,32,200 - 250,4,"13 MP (rear), 13 MP (front)",4000,200,0,1,1,1,0,0,76
+Samsung,Galaxy J6,2019,3,154,Dual SIM,32,200 - 250,4,"13 MP (rear), 8 MP (front)",3000,200,0,1,0,0,0,0,76
+Samsung,Galaxy J4,2020,2,163,Dual SIM,32,150 - 200,3,"13 MP (rear), 5 MP (front)",4000,150,0,0,1,1,1,1,109.5
+Samsung,Galaxy J6,2020,3,177,Dual SIM,64,200 - 250,3,"13 MP (rear), 8 MP (front)",3300,200,0,0,1,0,1,1,146
+Samsung,Galaxy J8,2020,4,177,Dual SIM,64,250 - 300,3,"16 MP (rear), 16 MP (front)",3500,250,0,0,1,1,0,1,95
+Samsung,Galaxy M10,2019,2,163,Dual SIM,16,100 - 150,4,"13 MP (rear), 5 MP (front)",3400,100,0,1,0,0,0,0,38
+Samsung,Galaxy M20,2019,3,186,Dual SIM,32,150 - 200,4,"13 MP (rear), 8 MP (front)",5000,150,0,0,0,1,0,0,57
+Samsung,Galaxy M30,2019,4,175,Dual SIM,64,200 - 250,4,"Triple 13 MP (rear), 16 MP (front)",5000,200,0,1,1,0,1,0,146
+Samsung,Galaxy M40,2019,6,168,Dual SIM,128,300 - 350,4,"Triple 32 MP (rear), 16 MP (front)",3500,300,0,0,1,0,1,1,219
+Samsung,Galaxy M31,2020,6,191,Dual SIM,64,250 - 300,3,"Quad 64 MP (rear), 32 MP (front)",6000,250,0,1,0,1,1,0,182.5
+Samsung,Galaxy M51,2020,6,213,Dual SIM,128,350 - 400,3,"Quad 64 MP (rear), 32 MP (front)",7000,350,0,0,1,1,1,1,255.5
+Samsung,Galaxy M11,2020,3,197,Dual SIM,32,150 - 200,2,"Triple 13 MP (rear), 8 MP (front)",5000,150,0,1,1,0,1,0,109.5
+Samsung,Galaxy M21,2020,4,188,Dual SIM,64,200 - 250,2,"Triple 48 MP (rear), 20 MP (front)",6000,200,0,0,1,1,0,1,76
+Samsung,Galaxy M31s,2020,6,203,Dual SIM,128,300 - 350,2,"Quad 64 MP (rear), 32 MP (front)",6000,300,0,0,0,1,1,1,219
+Samsung,Galaxy M42 5G,2021,6,190,Dual SIM,128,300 - 350,1,"Quad 48 MP (rear), 20 MP (front)",5000,300,0,0,1,1,1,1,219
+Samsung,Galaxy M51,2021,8,213,Dual SIM,128,350 - 400,1,"Quad 64 MP (rear), 32 MP (front)",7000,350,0,0,1,1,0,1,133
+Samsung,Galaxy M12,2021,3,221,Dual SIM,32,150 - 200,1,"Quad 48 MP (rear), 8 MP (front)",6000,150,0,0,0,0,0,0.5,57
+Samsung,Galaxy M62,2021,8,218,Dual SIM,128,400 - 450,1,"Quad 64 MP (rear), 32 MP (front)",7000,400,0,0,0,0,0,0.5,152
+Samsung,Galaxy F41,2020,6,191,Dual SIM,64,200 - 250,2,"Triple 64 MP (rear), 32 MP (front)",6000,200,0,1,1,1,0,0,76
+Samsung,Galaxy F62,2021,6,218,Dual SIM,128,300 - 350,1,"Quad 64 MP (rear), 32 MP (front)",7000,300,0,0,1,1,1,1,219
+Samsung,Galaxy F12,2021,4,221,Dual SIM,64,150 - 200,1,"Quad 48 MP (rear), 8 MP (front)",6000,150,0,0,1,1,0,1,57
+Samsung,Galaxy F52 5G,2021,8,199,Dual SIM,128,300 - 350,1,"Quad 64 MP (rear), 16 MP (front)",4500,300,0,0,1,0,1,1,219
+Samsung,Galaxy Tab A,2016,2,289,Single SIM,16,150 - 200,7,"8 MP (rear), 2 MP (front)",7300,150,0,1,1,1,0,0,57
+Samsung,Galaxy Tab S2,2016,3,386,Nano-SIM,32,300 - 350,7,"8 MP (rear), 2.1 MP (front)",5870,300,0,1,1,0,1,0,219
+Samsung,Galaxy Tab E,2017,1.5,360,Single SIM,8,100 - 150,6,"5 MP (rear), 2 MP (front)",5000,100,0,1,1,0,1,0,73
+Samsung,Galaxy Tab A,2017,2,364,Single SIM,16,150 - 200,6,"8 MP (rear), 5 MP (front)",5000,150,0,1,0,0,1,0,109.5
+Samsung,Galaxy Tab S3,2017,4,429,Nano-SIM,32,400 - 450,6,"13 MP (rear), 5 MP (front)",6000,400,0,1,1,1,1,0,292
+Samsung,Galaxy Tab A,2018,2,529,Single SIM,32,200 - 250,5,"8 MP (rear), 5 MP (front)",7300,200,0,0,1,1,0,1,76
+Samsung,Galaxy Tab S4,2018,4,482,Nano-SIM,64,600 - 650,5,"13 MP (rear), 8 MP (front)",7300,600,0,1,1,0,0,0,228
+Samsung,Galaxy Tab A,2019,2,325,Single SIM,32,200 - 250,4,"8 MP (rear), 5 MP (front)",6150,200,0,1,1,1,0,0,76
+Samsung,Galaxy Tab S5e,2019,4,400,Nano-SIM,64,400 - 450,4,"13 MP (rear), 8 MP (front)",7040,400,0,0,0,1,0,0,152
+Samsung,Galaxy Tab S6,2019,6,420,Nano-SIM,128,550 - 600,4,"Dual 13 MP (rear), 8 MP (front)",7040,550,0,1,1,0,0,0,209
+Samsung,Galaxy Tab A,2020,3,309,Single SIM,32,200 - 250,3,"8 MP (rear), 5 MP (front)",5100,200,0,0,1,0,0,1,76
+Samsung,Galaxy Tab S6 Lite,2020,4,467,Nano-SIM,64,350 - 400,3,"8 MP (rear), 5 MP (front)",7040,350,0,1,0,1,1,0,255.5
+Samsung,Galaxy Tab S7,2020,6,498,Nano-SIM,128,650 - 700,3,"Dual 13 MP (rear), 8 MP (front)",8000,650,0,1,0,1,0,0,247
+Samsung,Galaxy Tab A7,2020,3,476,Single SIM,32,200 - 250,2,"8 MP (rear), 5 MP (front)",7040,200,0,1,0,0,1,0,146
+Samsung,Galaxy Tab A7 Lite,2021,3,366,Single SIM,32,150 - 200,1,"8 MP (rear), 2 MP (front)",5100,150,0,0,1,0,0,1,57
+Samsung,Galaxy Tab S7+,2020,6,575,Nano-SIM,128,850 - 900,2,"Dual 13 MP (rear), 8 MP (front)",10090,850,0,1,0,1,0,0,323
+Huawei,P9,2016,3,144,Single,32,300 - 400,7,"Dual 12 MP (rear), 8 MP",3000,300,0,1,1,0,0,0,90
+Huawei,P10,2017,4,145,Single,64,400 - 500,6,"Dual 20 MP (rear), 8 MP",3200,400,0,1,0,0,0,0,120
+Huawei,P20,2018,4,165,Single,128,500 - 600,5,"Dual 12 MP (rear), 24 MP",3400,500,0,1,1,1,1,0,325
+Huawei,P30,2019,6,165,Single,128,600 - 700,4,"Triple 40 MP (rear), 32 MP",3650,600,0,0,1,1,1,1,390
+Huawei,P40,2020,8,175,Dual,128,700 - 800,3,"Triple 50 MP (rear), 32 MP",3800,700,0,1,1,0,0,0,210
+Huawei,P50,2021,8,181,Dual,128,800 - 900,2,"Quad 50 MP (rear), 32 MP",4000,800,0,1,1,1,1,0,520
+Huawei,P60,2022,8,180,Dual,128,900 - 1000,1,"Quad 64 MP (rear), 32 MP",4200,900,0,0,0,0,0,0.5,270
+Huawei,Mate 9,2016,4,190,Dual,64,400-500,7,"12 MP (rear), 8 MP (front)",4000,400,0,1,1,1,1,0,260
+Huawei,Mate 10,2017,4,186,Dual,64,500-600,6,"20 MP (rear), 12 MP (front)",4000,500,0,1,0,0,1,0,325
+Huawei,Mate 10,2017,6,186,Dual,128,500-600,6,"20 MP (rear), 12 MP (front)",4000,500,0,0,0,1,0,0,150
+Huawei,Mate 20,2018,4,188,Dual,128,600-700,5,"40 MP (rear), 24 MP (front)",4200,600,0,0,0,0,1,0.5,390
+Huawei,Mate 20,2018,6,188,Dual,256,600,5,"40 MP (rear), 24 MP (front)",4200,600,0,0,1,1,1,1,390
+Huawei,Mate 20,2018,8,188,Dual,256,600,5,"40 MP (rear), 24 MP (front)",4200,600,0,1,1,0,0,0,180
+Huawei,Mate 30,2019,6,196,Dual,128,700,4,"40 MP (rear), 32 MP (front)",4200,700,0,1,1,0,1,0,455
+Huawei,Mate 30,2019,8,196,Dual,256,700,4,"40 MP (rear), 32 MP (front)",4200,700,0,1,0,0,0,0,210
+Huawei,Mate 30,2019,8,196,Dual,512,700,4,"40 MP (rear), 32 MP (front)",4200,700,0,1,0,0,0,0,210
+Huawei,Mate 40,2020,8,212,Dual,128,800,3,"50 MP (rear), 32 MP (front)",4400,800,0,0,0,0,1,0.5,520
+Huawei,Mate 40,2020,12,212,Dual,256,800,3,"50 MP (rear), 32 MP (front)",4400,800,0,0,1,0,0,1,240
+Huawei,Mate 40,2020,12,212,Dual,512,800,3,"50 MP (rear), 32 MP (front)",4400,700,0,1,1,1,1,0,455
+Huawei,Mate 50,2021,8,220,Dual,128,900,2,"64 MP (rear), 48 MP (front)",4600,800,0,0,1,0,1,1,520
+Huawei,Mate 50,2021,12,220,Dual,256,900,2,"64 MP (rear), 48 MP (front)",4600,800,0,0,0,0,0,0.5,240
+Huawei,Mate 50,2021,16,220,Dual,512,900,2,"64 MP (rear), 48 MP (front)",4600,800,0,0,1,1,1,1,520
+Huawei,Mate 60,2022,8,225,Dual,128,1000,1,"64 MP (rear), 48 MP (front)",4800,900,0,1,1,0,0,0,270
+Huawei,Mate 60,2022,12,225,Dual,256,1000,1,"64 MP (rear), 48 MP (front)",4800,900,0,1,1,1,0,0,270
+Huawei,Mate 60,2022,16,225,Dual,512,1000,1,"64 MP (rear), 48 MP (front)",4800,900,0,1,0,1,0,0,270
+Honor,Honor 8,2016,4,153,Single,32,200 - 250,7,"12 MP (rear), 8 MP (front)",3000,200,0,0,1,0,1,1,130
+Honor,Honor 9,2017,4,155,Dual,64,250 - 300,6,"12 MP (rear), 8 MP (front)",3200,250,0,0,0,0,0,0.5,75
+Honor,Honor 10,2018,4,153,Dual,128,300 - 350,5,"16 MP (rear), 24 MP (front)",3400,300,0,0,1,1,1,1,195
+Honor,Honor 20,2019,6,186,Dual,128,350 - 400,4,"48 MP (rear), 32 MP (front)",3750,350,0,1,0,1,1,0,227.5
+Honor,Honor 30,2020,8,185,Dual,128,400 - 450,3,"40 MP (rear), 32 MP (front)",4000,400,0,0,1,1,1,1,260
+Honor,Honor X10,2020,6,203,Dual,128,350 - 400,3,"40 MP (rear), 16 MP (front)",4300,350,0,0,1,1,1,1,227.5
+Honor,Honor 50,2021,8,175,Dual,128,400 - 450,2,"108 MP (rear), 32 MP (front)",4300,400,0,0,1,1,1,1,260
+Honor,Honor Magic 3,2021,8,203,Dual,128,500 - 550,2,"50 MP (rear), 13 MP (front)",4600,500,0,1,1,1,0,0,150
+Honor,Honor 40,2022,8,190,Dual,128,450 - 500,1,"64 MP (rear), 32 MP (front)",4200,450,0,0,1,0,0,1,135
+Honor,Honor X20,2022,8,195,Dual,128,400 - 450,1,"64 MP (rear), 16 MP (front)",4300,400,0,1,1,0,0,0,120
+Honor,Honor 60,2023,12,200,Dual,256,600 - 700,0,"108 MP (rear), 32 MP (front)",5000,600,0,1,0,1,1,0,390
+Huawei,Y6,2016,2,125,Dual,16,100 - 150,7,"13 MP (rear), 5 MP (front)",2200,100,0,0,0,1,0,0,30
+Huawei,Y7 Prime,2017,3,165,Dual,32,150 - 200,6,"12 MP (rear), 8 MP (front)",4000,150,0,1,0,0,1,0,97.5
+Huawei,Y9,2018,4,173,Dual,64,200 - 300,5,"16 MP (rear), 13 MP (front)",4000,200,0,1,1,0,1,0,130
+Huawei,Y6 Prime,2019,3,150,Dual,32,150 - 200,4,"13 MP (rear), 8 MP (front)",3000,150,0,1,0,0,1,0,97.5
+Huawei,Y8s,2020,4,180,Dual,64,200 - 250,3,"48 MP (rear), 8 MP (front)",4000,200,0,1,0,1,0,0,60
+Huawei,Y9a,2020,8,197,Dual,128,250 - 300,3,"64 MP (rear), 16 MP (front)",4200,250,0,0,1,1,1,1,162.5
+Huawei,Y7a,2020,4,206,Dual,128,200 - 250,2,"48 MP (rear), 8 MP (front)",5000,200,0,1,1,1,1,0,130
+Huawei,Y6p,2020,4,185,Dual,64,100 - 150,2,"13 MP (rear), 8 MP (front)",5000,100,0,1,0,0,1,0,65
+Huawei,Y7p,2020,4,176,Dual,64,150 - 200,2,"48 MP (rear), 8 MP (front)",4000,150,0,0,0,0,1,0.5,97.5
+Huawei,Y9s,2019,6,206,Dual,128,250 - 300,4,"48 MP (rear), 16 MP (front)",4000,250,0,1,1,1,1,0,162.5
+Huawei,Y7,2019,3,168,Dual,32,150 - 200,4,"13 MP (rear), 8 MP (front)",4000,150,0,1,1,1,1,0,97.5
+Huawei,Y5p,2020,2,144,Dual,32,100 - 150,1,"8 MP (rear), 5 MP (front)",3020,100,0,0,1,1,0,1,30
+Huawei,Y6s,2020,3,150,Dual,32,100 - 150,1,"13 MP (rear), 8 MP (front)",3020,100,0,1,0,0,0,0,30
+Huawei,Y6 Prime (2019),2019,2,150,Dual,32,100 - 150,3,"13 MP (rear), 8 MP (front)",3020,100,0,0,0,0,0,0.5,30
+Huawei,Y6s (2019),2019,3,150,Dual,64,100 - 150,1,"13 MP (rear), 8 MP (front)",3020,100,0,0,0,0,1,0.5,65
+Huawei,Y7 Pro (2019),2019,3,168,Dual,32,150 - 200,1,"13 MP (rear), 16 MP (front)",4000,150,0,0,1,1,1,1,97.5
+Huawei,Nova,2016,3,146,Dual,32,200 - 250,7,"12 MP (rear), 8 MP (front)",3020,200,0,0,1,1,0,1,60
+Huawei,Nova Plus,2016,3,160,Dual,32,250 - 300,7,"16 MP (rear), 8 MP (front)",3340,250,0,1,1,0,1,0,162.5
+Huawei,Nova 2,2017,4,143,Dual,64,250 - 300,6,"12 MP (rear), 8 MP (front)",2950,250,0,1,0,0,0,0,75
+Huawei,Nova 2 Plus,2017,4,169,Dual,128,300 - 350,6,"12 MP (rear), 20 MP (front)",3340,300,0,1,1,1,1,0,195
+Huawei,Nova 3,2018,6,166,Dual,128,350 - 400,5,"16 MP (rear), 24 MP (front)",3750,350,0,1,0,0,1,0,227.5
+Huawei,Nova 3i,2018,4,169,Dual,128,300 - 350,5,"16 MP (rear), 24 MP (front)",3340,300,0,1,0,0,0,0,90
+Huawei,Nova 4,2018,8,172,Dual,128,400 - 450,4,"48 MP (rear), 25 MP (front)",3750,400,0,1,1,1,0,0,120
+Huawei,Nova 5T,2019,6,174,Dual,128,400 - 450,3,"48 MP (rear), 32 MP (front)",3750,400,0,0,0,1,1,1,260
+Huawei,Nova 7i,2020,8,183,Dual,128,350 - 400,2,"48 MP (rear), 16 MP (front)",4200,350,0,0,1,0,1,1,227.5
+Huawei,Nova 8,2020,8,169,Dual,128,450 - 500,1,"64 MP (rear), 32 MP (front)",3800,450,0,0,1,0,1,1,292.5
+Huawei,Nova 8 Pro,2020,8,184,Dual,128,500 - 550,1,"64 MP (rear), 32 MP (front)",4000,500,0,1,1,1,0,0,150
+Huawei,Nova 8 SE,2020,8,178,Dual,128,400 - 450,1,"64 MP (rear), 16 MP (front)",3800,400,0,1,1,0,1,0,260
+Huawei,Nova 9,2021,8,186,Dual,128,500 - 550,0,"64 MP (rear), 32 MP (front)",4500,500,0,0,0,0,0,0.5,150
+Huawei,Nova 9 Pro,2021,8,188,Dual,256,550 - 600,0,"64 MP (rear), 32 MP (front)",4600,550,0,0,0,0,0,0.5,165
+Huawei,Nova 9 SE,2021,8,178,Dual,128,450 - 500,0,"64 MP (rear), 16 MP (front)",4000,450,0,0,1,0,1,1,292.5
+Huawei,Nova 9i,2021,8,186,Dual,128,450 - 500,0,"64 MP (rear), 16 MP (front)",4000,450,0,0,0,0,1,0.5,292.5
+Huawei,Nova 9e,2021,6,170,Dual,128,350 - 400,0,"64 MP (rear), 32 MP (front)",4200,350,0,1,0,0,1,0,227.5
+Huawei,Nova 9 SE Life,2021,6,170,Dual,128,350 - 400,0,"64 MP (rear), 16 MP (front)",4200,350,0,1,0,1,0,0,105
+Huawei,Nova 9i Vitality,2021,6,170,Dual,128,350 - 400,0,"64 MP (rear), 16 MP (front)",4200,350,0,0,0,0,1,0.5,227.5
+Huawei,Nova 9 Pro 4G,2022,8,189,Dual,256,550 - 600,0,"64 MP (rear), 32 MP (front)",4600,550,0,1,0,1,1,0,357.5
+Huawei,Nova 9 Pro 5G,2022,8,189,Dual,256,600 - 650,0,"64 MP (rear), 32 MP (front)",4600,600,0,1,1,1,1,0,390
+Huawei,Nova 9e Pro,2022,6,175,Dual,128,400 - 450,0,"64 MP (rear), 32 MP (front)",4500,400,0,0,0,1,1,1,260
+Huawei,Nova 9 SE 5G,2022,8,186,Dual,128,500 - 550,0,"64 MP (rear), 16 MP (front)",4500,500,0,0,0,1,0,0,150
+Huawei,Nova 9e Pro 5G,2022,8,175,Dual,128,450 - 500,0,"64 MP (rear), 32 MP (front)",4500,450,0,1,1,0,0,0,135
+Huawei,Huawei Mate 10,2017,4,186,Single/Dual,128,500 - 600,6,Dual 12 MP + 20 MP,4000,500,0,1,0,0,1,0,325
+Huawei,Huawei Mate 20,2018,4,188,Single/Dual,128,700 - 800,5,Triple 12 MP + 16 MP + 8 MP,4000,700,0,1,1,1,0,0,210
+Huawei,Huawei Mate 30,2019,4,196,Single/Dual,256,800 - 900,4,Triple 40 MP + 16 MP + 8 MP,4200,800,0,0,0,1,1,1,520
+Apple,iPhone 4,2010,0.5,137,Micro,8,100 - 200,11,"5 MP (rear), VGA (front)",1420,50,0,1,0,0,0,0,15
+Apple,iPhone 4s,2011,0.5,140,Micro,16,150 - 250,10,"8 MP (rear), VGA (front)",1432,70,0,1,0,0,0,0,21
+Apple,iPhone 5,2012,1,112,Nano,16,200 - 300,9,"8 MP (rear), 1.2 MP (front)",1440,100,0,1,0,0,0,0,30
+Apple,iPhone 5c,2013,1,132,Nano,16,150 - 250,8,"8 MP (rear), 1.2 MP (front)",1507,120,0,0,0,1,0,0,36
+Apple,iPhone 5s,2013,1,112,Nano,16,200 - 300,8,"8 MP (rear), 1.2 MP (front)",1570,140,0,0,1,1,0,1,42
+Apple,iPhone 6,2014,1,129,Nano,16,250 - 350,7,"8 MP (rear), 1.2 MP (front)",1810,200,0,0,0,0,0,0.5,60
+Apple,iPhone 6 Plus,2014,1,172,Nano,16,300 - 400,7,"8 MP (rear), 1.2 MP (front)",2915,250,0,0,1,1,1,1,162.5
+Apple,iPhone 7,2016,2,138,Nano,32,400 - 500,5,"12 MP (rear), 7 MP (front)",1960,500,0,1,1,0,1,0,325
+Apple,iPhone 7 Plus,2016,3,188,Nano,32,500 - 600,5,"12 MP (rear), 7 MP (front)",2900,600,0,0,1,1,0,1,180
+Apple,iPhone 8,2017,2,148,Nano,64,500 - 600,4,"12 MP (rear), 7 MP (front)",1821,600,0,0,0,1,0,0,180
+Apple,iPhone 8 Plus,2017,3,202,Nano,64,600 - 700,4,"12 MP (rear), 7 MP (front)",2691,700,0,0,1,0,0,1,210
+Apple,iPhone X,2017,3,174,Nano,64,700 - 800,4,"Dual 12 MP (rear), 7 MP (front)",2716,800,0,1,1,0,0,0,240
+Apple,iPhone XR,2018,3,194,Nano,64,700 - 800,3,"12 MP (rear), 7 MP (front)",2942,800,0,0,1,0,0,1,240
+Apple,iPhone XS,2018,4,177,Nano,64,800 - 900,3,"Dual 12 MP (rear), 7 MP (front)",2658,900,0,0,1,0,1,1,585
+Apple,iPhone XS Max,2018,4,208,Nano,64,900 - 1000,3,"Dual 12 MP (rear), 7 MP (front)",3174,1000,0,1,1,1,0,0,300
+Apple,iPhone 11,2019,4,194,Nano,64,800 - 900,2,"Dual 12 MP (rear), 12 MP (front)",3110,900,0,1,0,0,1,0,585
+Apple,iPhone 11 Pro,2019,6,188,Nano,64,1000 - 1100,2,"Triple 12 MP (rear), 12 MP (front)",3046,1100,0,1,0,1,1,0,715
+Apple,iPhone 11 Pro Max,2019,6,226,Nano,64,1100 - 1200,2,"Triple 12 MP (rear), 12 MP (front)",3969,1200,0,1,1,0,1,0,780
+Apple,iPhone SE (2nd generation),2020,3,148,Nano,64,400 - 500,1,"12 MP (rear), 7 MP (front)",1821,500,0,0,1,0,1,1,325
+Apple,iPhone 12,2020,4,164,Nano,64,800 - 900,1,"Dual 12 MP (rear), 12 MP (front)",2815,900,0,1,1,0,0,0,270
+Apple,iPhone 12 Mini,2020,4,135,Nano,64,700 - 800,1,"Dual 12 MP (rear), 12 MP (front)",2227,800,0,0,1,0,1,1,520
+Apple,iPhone 12 Pro,2020,6,189,Nano,128,1000 - 1100,1,"Triple 12 MP (rear), 12 MP (front)",2815,1100,0,0,0,0,0,0.5,330
+Apple,iPhone 12 Pro Max,2020,6,228,Nano,128,1100 - 1200,1,"Triple 12 MP (rear), 12 MP (front)",3687,1200,0,1,1,0,0,0,360
+Apple,iPhone 13,2021,4,173,Nano,128,1000 - 1100,0,"Dual 12 MP (rear), 12 MP (front)",3082,1100,0,0,1,0,0,1,330
+Apple,iPhone 13 Mini,2021,4,140,Nano,128,900 - 1000,0,"Dual 12 MP (rear), 12 MP (front)",2438,1000,0,0,0,1,1,1,650
+Apple,iPhone 13 Pro,2021,6,204,Nano,128,1200 - 1300,0,"Triple 12 MP (rear), 12 MP (front)",3385,1300,0,0,1,1,1,1,845
+Apple,iPhone 13 Pro Max,2021,6,238,Nano,128,1300 - 1400,0,"Triple 12 MP (rear), 12 MP (front)",4352,1400,0,1,0,1,1,0,910
+Apple,iPhone SE (3rd generation),2022,4,148,Nano,64,400 - 500,0,"12 MP (rear), 7 MP (front)",1821,500,0,1,1,0,1,0,325
+Apple,iPhone 14,2023,6,175,Nano,128,1200 - 1300,0,"Dual 12 MP (rear), 12 MP (front)",3456,1300,0,1,0,1,1,0,845
+Oppo,F1s,2016,3,160,Dual,32,200 - 300,7,"13 MP (rear), 16 MP (front)",3075,300,0,0,1,0,1,1,195
+Oppo,F3 Plus,2017,4,185,Dual,64,300 - 400,6,"16 MP (rear), Dual 16 MP (front)",4000,400,0,1,1,0,0,0,120
+Oppo,F9,2018,6,169,Dual,64,400 - 500,5,"16 MP (rear), 25 MP (front)",3500,500,0,1,0,1,0,0,150
+Oppo,Reno,2019,8,185,Dual,128,500 - 600,4,"48 MP (rear), 16 MP (front)",3765,600,0,0,1,1,0,1,180
+Oppo,Reno 2,2019,8,189,Dual,256,600 - 700,4,"Quad 48 MP (rear), 16 MP (front)",4000,700,0,0,0,1,0,0,210
+Oppo,Reno 3 Pro,2020,8,175,Dual,128,700 - 800,3,"Quad 64 MP (rear), 44 MP (front)",4025,800,0,0,0,0,1,0.5,520
+Oppo,Reno 4,2020,8,183,Dual,128,800 - 900,2,"Quad 48 MP (rear), 32 MP (front)",4015,900,0,1,1,0,0,0,270
+Oppo,Reno 5 Pro+,2021,12,184,Dual,256,900 - 1000,1,"Quad 50 MP (rear), 32 MP (front)",4500,1000,0,0,0,1,1,1,650
+Vivo,V7 Plus,2017,4,160,Dual,64,200 - 300,6,"16 MP (rear), 24 MP (front)",3225,300,0,0,0,0,1,0.5,195
+Vivo,V9,2018,4,150,Dual,64,300 - 400,5,"16 MP (rear), 24 MP (front)",3260,400,0,1,1,1,0,0,120
+Vivo,V11 Pro,2018,6,156,Dual,64,400 - 500,4,"12 MP (rear), 25 MP (front)",3400,500,0,0,0,1,0,0,150
+Vivo,V15 Pro,2019,6,185,Dual,128,500 - 600,3,"48 MP (rear), 32 MP (front)",3700,600,0,0,0,1,1,1,390
+Vivo,V17 Pro,2019,8,201,Dual,128,600 - 700,3,"Quad 48 MP (rear), Dual 32 MP (front)",4100,700,0,0,1,1,1,1,455
+Vivo,V19 Pro,2020,8,185,Dual,128,700 - 800,2,"Quad 48 MP (rear), Dual 32 MP (front)",4500,800,0,1,0,1,0,0,240
+Vivo,X50 Pro,2020,8,181,Dual,128,800 - 900,2,"Quad 48 MP (rear), 32 MP (front)",4315,900,0,1,0,0,0,0,270
+Vivo,X60 Pro+,2021,12,191,Dual,256,900 - 1000,1,"Quad 50 MP (rear), 32 MP (front)",4200,1000,0,0,1,1,0,1,300
+Tecno,Camon 15 Pro,2020,6,203,Dual,128,150 - 200,2,"48 MP (rear), 32 MP (front)",4000,200,0,0,1,0,0,1,60
+Tecno,Spark Power 2,2020,4,220,Dual,64,100 - 150,2,"16 MP (rear), 16 MP (front)",6000,150,0,1,0,0,0,0,45
+Tecno,Pova,2020,6,196,Dual,128,150 - 200,2,"13 MP (rear), 8 MP (front)",6000,200,0,0,1,0,1,1,130
+Tecno,Camon 17 Pro,2021,8,201,Dual,256,200 - 300,1,"64 MP (rear), 48 MP (front)",5000,300,0,0,1,0,0,1,90
+Tecno,Spark 7 Pro,2021,4,186,Dual,64,100 - 150,1,"48 MP (rear), 8 MP (front)",5000,150,0,1,0,0,0,0,45
+Xiaomi,Mi 11,2020,8,196,Dual,128,700 - 800,3,"108 MP (rear), 20 MP (front)",4600,600,0,0,0,1,1,1,390
+Xiaomi,Mi 11 Pro,2021,12,208,Dual,256,900 - 1000,2,"108 MP (rear), 20 MP (front)",5000,800,0,1,0,0,1,0,520
+Xiaomi,Mi 11 Ultra,2021,12,234,Dual,512,1000 - 1100,2,"50 MP (rear), 48 MP (front)",5000,1000,0,0,1,1,0,1,300
+Xiaomi,Mi 10,2020,8,208,Dual,128,500 - 600,3,"108 MP (rear), 20 MP (front)",4780,400,0,1,1,0,1,0,260
+Xiaomi,Mi 10 Pro,2020,12,208,Dual,256,700 - 800,3,"108 MP (rear), 20 MP (front)",4500,600,0,0,0,0,1,0.5,390
+Xiaomi,Mi 10T,2020,6,216,Dual,128,400 - 500,3,"64 MP (rear), 20 MP (front)",5000,300,0,1,1,1,1,0,195
+Xiaomi,Mi 10T Pro,2020,8,218,Dual,256,500 - 600,3,"108 MP (rear), 20 MP (front)",5000,500,0,0,1,0,1,1,325
+Realme,3,2018,3,175,Dual,32,100,3,"13 MP (rear), 13 MP (front)",4230,100,0,1,0,0,0,0,30
+Realme,5i,2019,4,195,Dual,64,150,2,"12 MP (rear), 8 MP (front)",5000,150,0,0,1,1,0,1,45
+Realme,6,2020,6,191,Dual,128,200,1,"64 MP (rear), 16 MP (front)",4300,200,0,0,1,1,1,1,130
+Realme,7,2020,8,196,Dual,128,250,1,"64 MP (rear), 16 MP (front)",5000,250,0,1,0,1,1,0,162.5
+Realme,X2,2019,8,182,Dual,128,300,2,"64 MP (rear), 32 MP (front)",4000,300,0,1,0,1,0,0,90
+Realme,Narzo 20 Pro,2020,6,191,Dual,128,180,1,"48 MP (rear), 16 MP (front)",4500,180,0,1,0,1,0,0,54
+Realme,8 Pro,2021,8,176,Dual,128,350,0,"108 MP (rear), 16 MP (front)",4500,350,0,1,1,0,1,0,227.5
+Realme,GT 5G,2021,8,186,Dual,128,400,0,64 MP (rear),-,400,0,1,0,1,0,0,120
+Motorola,Moto G7 Power,2019,3,193,Single,32,150,2,"12 MP (rear), 8 MP (front)",5000,150,0,1,1,1,0,0,45
+Motorola,Moto G8 Plus,2019,4,188,Dual,64,200,2,"48 MP (rear), 25 MP (front)",4000,200,0,1,0,0,0,0,60
+Motorola,Moto G9 Power,2020,4,221,Dual,128,250,1,"64 MP (rear), 16 MP (front)",6000,250,0,1,0,0,0,0,75
+Motorola,Moto G10 Power,2021,4,220,Dual,64,200,0,"48 MP (rear), 8 MP (front)",6000,200,0,1,0,1,0,0,60
+Motorola,Moto G30,2021,4,200,Dual,128,250,0,"64 MP (rear), 13 MP (front)",5000,250,0,1,0,0,1,0,162.5
+Motorola,Moto G100,2021,8,207,Dual,128,400,0,"64 MP (rear), 16 MP (front)",5000,400,0,0,1,0,0,1,120
+Motorola,Moto One Fusion,2020,4,202,Dual,64,200,1,"48 MP (rear), 8 MP (front)",5000,200,0,0,0,0,0,0.5,60
+Motorola,Moto G Pro,2020,4,192,Dual,128,250,1,"48 MP (rear), 16 MP (front)",4000,250,0,0,0,0,0,0.5,75
+Nokia,Nokia 6.1,2018,3,172,Dual,32,150,3,"16 MP (rear), 8 MP (front)",3000,150,0,1,1,0,1,0,97.5
+Nokia,Nokia 7 Plus,2018,4,183,Dual,64,200,3,"12 MP (rear), 16 MP (front)",3800,200,0,1,0,0,0,0,60
+Nokia,Nokia 8,2017,4,160,Single,64,300,4,"13 MP (rear), 13 MP (front)",3090,300,0,0,1,1,0,1,90
+Nokia,Nokia 8.1,2018,4,180,Hybrid,64,250,3,"12 MP (rear), 20 MP (front)",3500,250,0,0,1,0,1,1,162.5
+Nokia,Nokia 5.1 Plus,2018,3,160,Dual,32,150,3,"13 MP (rear), 8 MP (front)",3060,150,0,1,1,1,0,0,45
+Nokia,Nokia 6.2,2019,4,180,Hybrid,64,200,2,"16 MP (rear), 8 MP (front)",3500,200,0,0,1,1,0,1,60
+Nokia,Nokia 7.2,2019,4,180,Hybrid,64,250,2,"48 MP (rear), 20 MP (front)",3500,250,0,1,0,1,0,0,75
+Nokia,Nokia 5.3,2020,4,185,Hybrid,64,200,1,"13 MP (rear), 8 MP (front)",4000,200,0,0,0,1,1,1,130
+HTC,HTC U11,2017,4,169,Single,64,400,4,"12 MP (rear), 16 MP (front)",3000,400,0,0,0,1,0,0,120
+HTC,HTC U11 Life,2017,4,142,Single,64,300,4,"16 MP (rear), 16 MP (front)",2600,300,0,1,1,1,0,0,90
+HTC,HTC U12+,2018,4,188,Hybrid,128,600,3,"12 MP (rear), 8 MP (front)",3500,600,0,1,0,0,1,0,390
+HTC,HTC U12 Life,2018,4,175,Hybrid,64,350,3,"16 MP (rear), 13 MP (front)",3600,350,0,1,0,1,0,0,105
+HTC,HTC U19e,2019,6,180,Hybrid,128,500,2,"12 MP (rear), 20 MP (front)",3930,500,0,0,1,1,0,1,150
+HTC,HTC Desire 19+,2019,4,170,Hybrid,64,300,2,"13 MP (rear), 16 MP (front)",3850,300,0,1,1,1,1,0,195
+HTC,HTC Desire 20+,2020,6,203,Hybrid,128,400,1,"48 MP (rear), 16 MP (front)",5000,400,0,0,0,1,1,1,260
+HTC,HTC Wildfire E3,2021,4,186,Dual,64,200,1,"13 MP (rear), 8 MP (front)",4000,200,0,0,0,1,0,0,60
+OnePlus,OnePlus 5T,2017,45085,162,Dual,64,500,4,"16 MP (rear), 16 MP (front)",3300,400,0,0,0,1,0,0,120
+OnePlus,OnePlus 6,2018,45085,177,Dual,128,600,3,"16 MP (rear), 16 MP (front)",3300,450,0,0,0,1,1,1,292.5
+OnePlus,OnePlus 6T,2018,45085,185,Dual,128,550,3,"16 MP (rear), 16 MP (front)",3700,500,0,0,1,1,0,1,150
+OnePlus,OnePlus 7,2019,41068,182,Dual,128,700,2,"48 MP (rear), 16 MP (front)",3700,600,0,0,0,0,0,0.5,180
+OnePlus,OnePlus 7 Pro,2019,41068,206,Dual,128,800,2,"48 MP (rear), 16 MP (front)",4000,700,0,1,0,0,1,0,455
+OnePlus,OnePlus 8,2020,45150,180,Dual,256,800,1,"48 MP (rear), 16 MP (front)",4300,700,0,1,0,1,1,0,455
+OnePlus,OnePlus 8 Pro,2020,45150,199,Dual,128,1000,1,"48 MP (rear), 16 MP (front)",4510,900,0,0,1,0,0,1,270
+OnePlus,OnePlus 9,2021,45150,183,Dual,128,900,0,"48 MP (rear), 16 MP (front)",4500,800,0,1,0,0,1,0,520
+OnePlus,OnePlus 9 Pro,2021,45150,197,Dual,128,1100,0,"48 MP (rear), 16 MP (front)",4500,1000,0,0,0,0,1,0.5,650
+Sony,Xperia XZs,2017,4,161,Single,64,400,4,"19 MP (rear), 13 MP (front)",2900,250,0,0,0,1,0,0,75
+Sony,Xperia XZ2,2018,45022,198,Single,128,600,3,"19 MP (rear), 5 MP (front)",3180,400,0,1,0,0,1,0,260
+Sony,Xperia XZ3,2018,45022,193,Single,64,700,3,"19 MP (rear), 13 MP (front)",3300,500,0,0,1,1,1,1,325
+Sony,Xperia 1,2019,6,178,Single,128,800,2,"12 MP (rear), 8 MP (front)",3330,600,0,0,0,1,0,0,180
+Sony,Xperia 5,2019,6,164,Single,128,700,2,"12 MP (rear), 8 MP (front)",3140,550,0,0,0,1,0,0,165
+Sony,Xperia 1 II,2020,8,181,Single,256,1000,1,"12 MP (rear), 8 MP (front)",4000,900,0,0,0,1,0,0,270
+Sony,Xperia 5 II,2020,8,163,Single,128,900,1,"12 MP (rear), 8 MP (front)",4000,800,0,1,1,1,0,0,240
+Sony,Xperia 1 III,2021,45150,187,Single,256,1200,0,"12 MP (rear), 8 MP (front)",4500,1100,0,1,0,0,0,0,330
+LG,G6,2017,4,163,Single,64,300,4,"13 MP (rear), 5 MP (front)",3300,200,0,0,0,0,0,0.5,60
+LG,V30,2017,4,158,Single,128,400,4,"16 MP (rear), 5 MP (front)",3300,250,0,1,1,0,0,0,75
+LG,G7 ThinQ,2018,45022,162,Single,128,500,3,"16 MP (rear), 8 MP (front)",3000,300,0,1,0,0,1,0,195
+LG,V40 ThinQ,2018,6,169,Single,64,600,3,"12 MP (rear), 8 MP (front)",3300,350,0,0,0,1,1,1,227.5
+LG,G8 ThinQ,2019,6,167,Single,128,700,2,"12 MP (rear), 8 MP (front)",3500,400,0,0,0,1,1,1,260
+LG,V50 ThinQ,2019,6,183,Single,128,800,2,"12 MP (rear), 8 MP (front)",4000,450,0,1,1,0,0,0,135
+LG,Velvet,2020,45085,180,Single,256,600,1,"48 MP (rear), 16 MP (front)",4300,500,0,0,1,1,0,1,150
+Google,Pixel 2,2017,4,143,Single,64,400,4,"12.2 MP (rear), 8 MP (front)",2700,200,0,1,1,0,0,0,60
+Google,Pixel 2 XL,2017,4,175,Single,64,500,4,"12.2 MP (rear), 8 MP (front)",3520,250,0,0,1,1,0,1,75
+Google,Pixel 2 XL,2017,4,175,Single,128,500,4,"12.2 MP (rear), 8 MP (front)",3520,250,0,0,0,1,1,1,162.5
+Google,Pixel 3,2018,4,150,Single,64,600,3,"12.2 MP (rear), 8 MP (front)",2915,300,0,1,1,1,0,0,90
+Google,Pixel 3 XL,2018,4,184,Single,64,700,3,"12.2 MP (rear), 8 MP (front)",3430,350,0,0,1,0,0,1,105
+Google,Pixel 3 XL,2018,4,184,Single,128,700,3,"12.2 MP (rear), 8 MP (front)",3430,350,0,1,0,1,0,0,105
+Google,Pixel 3a,2019,4,147,Single,64,400,2,"12.2 MP (rear), 8 MP (front)",3000,250,0,1,0,1,1,0,162.5
+Google,Pixel 3a XL,2019,4,167,Single,64,500,2,"12.2 MP (rear), 8 MP (front)",3700,300,0,0,1,0,1,1,195
+Google,Pixel 4,2019,6,162,Single,64,800,2,"12.2 MP (rear), 8 MP (front)",2800,500,0,1,1,1,1,0,325
+Google,Pixel 4 XL,2019,6,193,Single,64,900,2,"12.2 MP (rear), 8 MP (front)",3700,600,0,1,1,0,0,0,180
+Google,Pixel 4 XL,2019,6,193,Single,128,900,2,"12.2 MP (rear), 8 MP (front)",3700,600,0,1,0,0,1,0,390
+Google,Pixel 4a,2020,6,143,Single,128,350,1,"12.2 MP (rear), 8 MP (front)",3140,300,0,0,1,0,1,1,195
+Google,Pixel 4a 5G,2020,6,168,Single,128,500,1,"12.2 MP (rear), 8 MP (front)",3885,400,0,0,0,0,0,0.5,120
+Google,Pixel 5,2020,8,151,Single,128,700,1,"12.2 MP (rear), 8 MP (front)",4080,600,0,1,1,0,0,0,180
+ASUS,ZenFone 6,2019,6,190,Dual,64,500,3,"48 MP (rear), 13 MP (front)",5000,400,0,0,0,0,1,0.5,260
+ASUS,ZenFone 7,2020,8,230,Dual,128,700,2,"64 MP (rear), 12 MP (front)",5000,600,0,0,1,0,0,1,180
+ASUS,ZenFone 7 Pro,2020,8,230,Dual,256,900,2,"64 MP (rear), 12 MP (front)",5000,700,0,1,1,0,1,0,455
+ASUS,ROG Phone 3,2020,8,240,Dual,128,1000,2,"64 MP (rear), 24 MP (front)",6000,800,0,1,1,1,1,0,520
+ASUS,ROG Phone 5,2021,8,238,Dual,128,1100,1,"64 MP (rear), 24 MP (front)",6000,900,0,0,1,1,0,1,270
+ASUS,ROG Phone 5 Pro,2021,16,238,Dual,512,1500,1,"64 MP (rear), 24 MP (front)",6000,1200,0,0,0,1,0,0,360
+ASUS,ZenFone 8,2021,8,169,Dual,128,800,1,"64 MP (rear), 12 MP (front)",4000,700,0,0,0,1,0,0,210
+ASUS,ZenFone 8 Flip,2021,8,230,Dual,128,900,1,"64 MP (rear), 12 MP (front)",5000,800,0,1,1,1,1,0,520
+ASUS,ROG Phone 5 Ultimate,2021,18,238,Dual,512,1800,1,"64 MP (rear), 24 MP (front)",6000,1500,0,1,0,1,0,0,450
+ASUS,ZenFone 8 Pro,2021,8,230,Dual,256,1000,1,"64 MP (rear), 12 MP (front)",5000,900,0,1,0,0,1,0,585
+ASUS,ZenFone 8 Mini,2021,6,153,Dual,128,700,1,"64 MP (rear), 12 MP (front)",4000,600,0,0,0,1,1,1,390
+Lenovo,K6 Power,2016,3,145,Dual,32,150,7,"13 MP (rear), 8 MP (front)",4000,100,0,1,1,0,0,0,30
+Lenovo,K8 Note,2017,4,180,Dual,64,200,6,"13 MP (rear), 13 MP (front)",4000,120,0,1,0,0,0,0,36
+Lenovo,Moto G5 Plus,2017,4,155,Single,32,250,6,"12 MP (rear), 5 MP (front)",3000,150,0,1,1,0,0,0,45
+Lenovo,Moto G6,2018,4,167,Dual,64,300,5,"12 MP (rear), 8 MP (front)",3000,180,0,0,0,1,0,0,54
+Lenovo,Z5 Pro GT,2019,6,210,Dual,128,400,3,"16 MP (rear), 16 MP (front)",3350,250,0,0,0,1,1,1,162.5
+Lenovo,Z6 Pro,2019,8,185,Dual,128,500,3,"48 MP (rear), 32 MP (front)",4000,350,0,0,1,1,0,1,105
+Lenovo,Legion Phone Duel,2020,8,239,Dual,128,700,2,"64 MP (rear), 20 MP (front)",5000,500,0,1,1,0,1,0,325
+Lenovo,K12 Note,2020,4,200,Dual,64,150,2,"64 MP (rear), 16 MP (front)",5000,150,0,1,0,1,0,0,45
+Lenovo,K13 Note,2021,4,200,Dual,64,150,1,"48 MP (rear), 8 MP (front)",5000,120,0,1,0,0,1,0,78
+Lenovo,Legion Phone Duel 2,2021,12,259,Dual,256,900,1,"64 MP (rear), 44 MP (front)",5500,800,0,1,1,0,0,0,240
+BlackBerry,KEYone,2017,3,180,Single,32,300,4,"12 MP (rear), 8 MP (front)",3505,200,0,0,0,0,1,0.5,130
+BlackBerry,KEY2,2018,6,168,Dual,64,450,3,"12 MP (rear), 8 MP (front)",3500,250,0,1,0,0,0,0,75
+BlackBerry,Evolve,2018,4,180,Dual,64,350,3,"13 MP (rear), 16 MP (front)",4000,200,0,0,0,1,1,1,130
+BlackBerry,KEY2 LE,2018,4,156,Dual,64,300,3,"13 MP (rear), 8 MP (front)",3000,180,0,1,0,1,1,0,117
+BlackBerry,Key2 Red Edition,2019,6,168,Dual,64,500,2,"12 MP (rear), 8 MP (front)",3500,300,0,0,0,0,0,0.5,90
+BlackBerry,Evolve X,2018,6,180,Dual,64,400,3,"12 MP (rear), 16 MP (front)",4000,250,0,1,0,0,1,0,162.5
+BlackBerry,Key2 LE BBE100-5,2018,4,156,Dual,64,300,3,"13 MP (rear), 8 MP (front)",3000,180,0,1,0,0,0,0,54
+BlackBerry,Key2 LE BBE100-2,2018,4,156,Dual,64,300,3,"13 MP (rear), 8 MP (front)",3000,180,0,0,1,1,0,1,54
+Meizu,M6,2017,2,143,Dual,16,100,4,"13 MP (rear), 8 MP (front)",3070,80,0,1,0,1,0,0,24
+Meizu,M6 Note,2017,3,173,Dual,16,150,4,"12 MP (rear), 5 MP (front)",4000,120,0,0,0,0,1,0.5,78
+Meizu,M6T,2018,3,145,Dual,32,120,3,"13 MP (rear), 8 MP (front)",3300,100,0,0,1,1,1,1,65
+Meizu,M6s,2018,3,160,Dual,32,130,3,"16 MP (rear), 8 MP (front)",3000,110,0,1,1,0,0,0,33
+Meizu,M6 Note (Global),2017,3,173,Dual,32,170,4,"12 MP (rear), 5 MP (front)",4000,130,0,0,0,0,1,0.5,84.5
+Meizu,16X,2018,6,160,Dual,64,300,3,"12 MP (rear), 20 MP (front)",3100,220,0,0,0,0,1,0.5,143
+Meizu,16th,2018,8,152,Dual,128,400,3,"12 MP (rear), 20 MP (front)",3010,280,0,1,1,1,1,0,182
+Meizu,16th Plus,2018,8,182,Dual,128,500,3,"12 MP (rear), 20 MP (front)",3640,320,0,0,0,1,0,0,96
+Meizu,C9 Pro,2019,3,150,Dual,32,120,2,"13 MP (rear), 8 MP (front)",3000,90,0,0,0,0,0,0.5,27
+Meizu,Note 9,2019,4,169,Dual,64,200,2,"48 MP (rear), 20 MP (front)",4000,150,0,1,1,0,1,0,97.5
+Meizu,Note 8,2018,4,168,Dual,64,150,3,"12 MP (rear), 5 MP (front)",3600,120,0,0,0,1,1,1,78
+Meizu,Note 9 (M1923),2019,6,186,Dual,128,250,2,"48 MP (rear), 20 MP (front)",4000,180,0,0,0,1,1,1,117
+Meizu,Note 9 (M1923),2019,4,186,Dual,64,200,2,"48 MP (rear), 20 MP (front)",4000,150,0,1,0,0,0,0,45
+Meizu,M9 Note,2019,4,169,Dual,64,180,2,"48 MP (rear), 16 MP (front)",4000,130,0,1,1,0,0,0,39
+Meizu,Note 9 (M1923),2019,4,186,Dual,128,250,2,"48 MP (rear), 20 MP (front)",4000,180,0,0,0,0,1,0.5,117
+Meizu,16s Pro,2019,6,166,Dual,128,450,2,"48 MP (rear), 20 MP (front)",3600,250,0,1,0,0,1,0,162.5
+ZTE,Axon 20 5G,2020,6,198,Dual,128,500,2,"64 MP (rear), 32 MP (front)",4220,400,0,1,0,0,1,0,260
+ZTE,Axon 30 Pro,2021,8,187,Dual,128,700,1,"64 MP (rear), 16 MP (front)",4200,600,0,1,0,0,1,0,390
+ZTE,Blade V2020,2020,4,172,Dual,128,250,2,"48 MP (rear), 8 MP (front)",5000,200,0,1,1,0,0,0,60
+ZTE,Blade V2021,2021,4,190,Dual,64,200,1,"48 MP (rear), 8 MP (front)",5000,180,0,1,0,1,1,0,117
+ZTE,Blade 11 Prime,2020,4,186,Dual,64,150,2,"16 MP (rear), 8 MP (front)",4000,100,0,1,1,0,0,0,30
+ZTE,Blade 20 Pro 5G,2020,6,184,Dual,128,350,2,"64 MP (rear), 20 MP (front)",4000,250,0,1,0,0,0,0,75
+ZTE,Blade A7s,2019,3,160,Dual,64,100,3,"16 MP (rear), 8 MP (front)",4000,70,0,0,1,1,0,1,21
+ZTE,Blade 10,2019,3,165,Dual,64,150,3,"16 MP (rear), 16 MP (front)",3200,100,0,1,0,1,0,0,30
+ZTE,Blade V2021,2021,4,190,Dual,128,220,1,"48 MP (rear), 8 MP (front)",5000,180,0,0,1,1,0,1,54
+ZTE,Blade A7 Prime,2019,3,164,Dual,32,100,3,"16 MP (rear), 8 MP (front)",3200,70,0,1,0,1,1,0,45.5
+ZTE,Axon 11 5G,2020,6,168,Dual,128,400,2,"64 MP (rear), 20 MP (front)",4000,300,0,0,0,1,1,1,195
+ZTE,Blade V2020,2020,4,172,Dual,128,250,2,"48 MP (rear), 8 MP (front)",5000,200,0,1,0,0,1,0,130
+ZTE,Blade V2021,2021,4,190,Dual,64,200,1,"48 MP (rear), 8 MP (front)",5000,180,0,1,0,0,1,0,117
+ZTE,Blade 11 Prime,2020,4,186,Dual,64,150,2,"16 MP (rear), 8 MP (front)",4000,100,0,1,0,0,0,0,30
+ZTE,Blade 20 Pro 5G,2020,6,184,Dual,128,350,2,"64 MP (rear), 20 MP (front)",4000,250,0,0,1,0,0,1,75
+ZTE,Blade A7s,2019,3,160,Dual,64,100,3,"16 MP (rear), 8 MP (front)",4000,70,0,1,0,1,1,0,45.5
+ZTE,Blade 10,2019,3,165,Dual,64,150,3,"16 MP (rear), 16 MP (front)",3200,100,0,1,0,1,0,0,30
+ZTE,Blade A7 Prime,2019,3,164,Dual,32,100,3,"16 MP (rear), 8 MP (front)",3200,70,0,1,1,1,0,0,21
+ZTE,Axon 11 5G,2020,6,168,Dual,128,400,2,"64 MP (rear), 20 MP (front)",4000,300,0,0,1,1,1,1,195
+ZTE,Blade V2020,2020,4,172,Dual,128,250,2,"48 MP (rear), 8 MP (front)",5000,200,0,1,1,1,0,0,60
+ZTE,Blade V2021,2021,4,190,Dual,64,200,1,"48 MP (rear), 8 MP (front)",5000,180,0,0,1,1,0,1,54
+ZTE,Blade 11 Prime,2020,4,186,Dual,64,150,2,"16 MP (rear), 8 MP (front)",4000,100,0,0,1,1,0,1,30
+ZTE,Blade 20 Pro 5G,2020,6,184,Dual,128,350,2,"64 MP (rear), 20 MP (front)",4000,250,0,1,1,1,0,0,75
+ZTE,Blade A7s,2019,3,160,Dual,64,100,3,"16 MP (rear), 8 MP (front)",4000,70,0,1,0,0,0,0,21
+ZTE,Blade 10,2019,3,165,Dual,64,150,3,"16 MP (rear), 16 MP (front)",3200,100,0,1,1,0,1,0,65
+ZTE,Blade A7 Prime,2019,3,164,Dual,32,100,3,"16 MP (rear), 8 MP (front)",3200,70,0,0,0,0,0,0.5,21
+ZTE,Axon 11 5G,2020,6,168,Dual,128,400,2,"64 MP (rear), 20 MP (front)",4000,300,0,0,0,1,1,1,195
+ZTE,Blade V2020,2020,4,172,Dual,128,250,2,"48 MP (rear), 8 MP (front)",5000,200,0,0,1,1,1,1,130
+ZTE,Blade V2021,2021,4,190,Dual,64,200,1,"48 MP (rear), 8 MP (front)",5000,180,0,1,1,0,0,0,54
+ZTE,Blade 11 Prime,2020,4,186,Dual,64,150,2,"16 MP (rear), 8 MP (front)",4000,100,0,1,0,0,0,0,30
+ZTE,Blade 20 Pro 5G,2020,6,184,Dual,128,350,2,"64 MP (rear), 20 MP (front)",4000,250,0,0,1,1,0,1,75
+ZTE,Blade A7s,2019,3,160,Dual,64,100,3,"16 MP (rear), 8 MP (front)",4000,70,0,1,0,1,1,0,45.5
+ZTE,Blade 10,2019,3,165,Dual,64,150,3,"16 MP (rear), 16 MP (front)",3200,100,0,1,1,1,1,0,65
+ZTE,Blade A7 Prime,2019,3,164,Dual,32,100,3,"16 MP (rear), 8 MP (front)",3200,70,0,1,0,0,1,0,45.5
+ZTE,Axon 11 5G,2020,6,168,Dual,128,400,2,"64 MP (rear), 20 MP (front)",4000,300,0,1,1,1,0,0,90
+ZTE,Blade V2020,2020,4,172,Dual,128,250,2,"48 MP (rear), 8 MP (front)",5000,200,0,0,0,0,0,0.5,60
+ZTE,Blade V2021,2021,4,190,Dual,64,200,1,"48 MP (rear), 8 MP (front)",5000,180,0,0,1,1,1,1,117
+ZTE,Blade 11 Prime,2020,4,186,Dual,64,150,2,"16 MP (rear), 8 MP (front)",4000,100,0,1,0,1,1,0,65
+ZTE,Blade 20 Pro 5G,2020,6,184,Dual,128,350,2,"64 MP (rear), 20 MP (front)",4000,250,0,1,0,0,1,0,162.5
+ZTE,Blade A7s,2019,3,160,Dual,64,100,3,"16 MP (rear), 8 MP (front)",4000,70,0,1,1,1,0,0,21
+ZTE,Blade 10,2019,3,165,Dual,64,150,3,"16 MP (rear), 16 MP (front)",3200,100,0,1,1,0,0,0,30
+ZTE,Blade A7 Prime,2019,3,164,Dual,32,100,3,"16 MP (rear), 8 MP (front)",3200,70,0,0,1,1,0,1,21
+ZTE,Axon 11 5G,2020,6,168,Dual,128,400,2,"64 MP (rear), 20 MP (front)",4000,300,0,0,1,0,0,1,90
+ZTE,Blade V2020,2020,4,172,Dual,128,250,2,"48 MP (rear), 8 MP (front)",5000,200,0,1,0,0,0,0,60
+ZTE,Blade V2021,2021,4,190,Dual,64,200,1,"48 MP (rear), 8 MP (front)",5000,180,0,0,1,0,0,1,54
+ZTE,Blade 11 Prime,2020,4,186,Dual,64,150,2,"16 MP (rear), 8 MP (front)",4000,100,0,1,1,0,1,0,65
+ZTE,Blade 20 Pro 5G,2020,6,184,Dual,128,350,2,"64 MP (rear), 20 MP (front)",4000,250,0,1,1,0,1,0,162.5
+ZTE,Blade A7s,2019,3,160,Dual,64,100,3,"16 MP (rear), 8 MP (front)",4000,70,0,0,1,0,1,1,45.5
+ZTE,Blade 10,2019,3,165,Dual,64,150,3,"16 MP (rear), 16 MP (front)",3200,100,0,1,0,0,0,0,30
+ZTE,Blade A7 Prime,2019,3,164,Dual,32,100,3,"16 MP (rear), 8 MP (front)",3200,70,0,1,0,1,0,0,21
+ZTE,Axon 11 5G,2020,6,168,Dual,128,400,2,"64 MP (rear), 20 MP (front)",4000,300,0,1,0,0,0,0,90
+Alcatel,1X,2018,2,151,Dual,16,80,4,"8 MP (rear), 5 MP (front)",2460,50,0,0,0,1,1,1,32.5
+Alcatel,1V,2019,2,160,Dual,32,100,3,"13 MP (rear), 5 MP (front)",2460,70,0,1,0,1,1,0,45.5
+Alcatel,3L,2019,4,145,Dual,64,120,2,"48 MP (rear), 2 MP (front)",3500,80,0,1,1,0,1,0,52
+Alcatel,3X,2020,4,175,Dual,64,150,1,"48 MP (rear), 5 MP (front)",5000,100,0,1,1,1,0,0,30
+Alcatel,5V,2018,3,158,Dual,32,200,3,"12 MP (rear), 8 MP (front)",4000,150,0,1,1,0,1,0,97.5
+Alcatel,5X,2019,4,175,Dual,128,250,2,"48 MP (rear), 5 MP (front)",4000,180,0,1,1,1,1,0,117
+Tecno,Camon 15 Pro,2020,6,203,Dual,128,200,1,"48 MP (rear), 32 MP (front)",4000,180,0,1,1,1,0,0,54
+Tecno,Spark 7 Pro,2021,4,186,Dual,64,150,1,"48 MP (rear), 8 MP (front)",5000,120,0,0,0,1,0,0,36
+Tecno,Camon 17 Pro,2021,8,201,Dual,256,300,1,"64 MP (rear), 48 MP (front)",5000,250,0,0,0,1,0,0,75
+Tecno,Phantom X,2021,8,201,Dual,256,400,1,"50 MP (rear), 48 MP (front)",4700,350,0,0,0,0,0,0.5,105
+Tecno,Spark 8,2022,4,185,Dual,64,180,0,"16 MP (rear), 8 MP (front)",5000,150,0,0,1,1,1,1,97.5
+Itel,A36,2019,1,134,Dual,16,60,2,"5 MP (rear), 2 MP (front)",3020,40,0,0,0,1,1,1,26
+Itel,Vision 1 Plus,2020,3,169,Dual,32,100,1,"13 MP (rear), 8 MP (front)",4000,80,0,1,1,1,0,0,24
+Itel,A56,2020,2,162,Dual,32,80,1,"8 MP (rear), 5 MP (front)",4000,60,0,0,1,1,0,1,18
+Itel,P37 Pro,2021,2,165,Dual,32,120,0,"13 MP (rear), 8 MP (front)",5000,90,0,0,1,1,0,1,27
+Itel,S16 Pro,2021,2,165,Dual,32,100,0,"8 MP (rear), 8 MP (front)",4000,70,0,0,1,1,1,1,45.5
+Samsung,Galaxy S22,2022,8,150,Dual,128,1000,1,"108 MP (rear), 40 MP (front)",5000,900,0,1,1,1,1,0,657
+Apple,iPhone 14 Pro,2022,6,189,Single,128,1200,1,"12 MP (rear), 12 MP (front)",3200,1100,0,1,0,0,1,0,715
+Huawei,P50,2022,8,175,Dual,256,900,1,"50 MP (rear), 13 MP (front)",4000,800,0,0,0,0,1,0.5,520
+Xiaomi,Mi 12,2022,12,190,Dual,256,1100,1,"108 MP (rear), 40 MP (front)",4500,1000,0,1,0,1,1,0,650
+OnePlus,10T Pro,2022,8,199,Dual,128,800,1,"64 MP (rear), 16 MP (front)",4500,700,0,0,1,0,1,1,455
+Sony,Xperia 1 IV,2023,8,186,Single,256,1200,0,"64 MP (rear), 12 MP (front)",4000,1000,0,0,0,0,1,0.5,650
+LG,G10,2023,6,180,Dual,128,900,0,"48 MP (rear), 16 MP (front)",4000,800,0,0,1,1,0,1,240
+Google,Pixel 7,2023,8,170,Single,128,1000,0,"50 MP (rear), 12 MP (front)",3500,900,0,0,1,1,0,1,270
+ASUS,ZenFone 8 Pro,2023,12,185,Dual,256,1100,0,"108 MP (rear), 32 MP (front)",5000,1000,0,1,0,1,0,0,300
+Motorola,Edge 2,2023,6,190,Dual,128,800,0,"64 MP (rear), 32 MP (front)",4500,700,0,0,0,1,1,1,455
+Nokia,X40,2023,8,175,Dual,128,900,0,"48 MP (rear), 20 MP (front)",4000,800,0,1,1,0,0,0,240
+HTC,U20,2023,6,180,Dual,128,700,0,"64 MP (rear), 16 MP (front)",4000,600,0,1,0,0,1,0,390
+BlackBerry,Key3,2023,6,190,Single,128,800,0,"12 MP (rear), 8 MP (front)",3500,600,0,0,1,0,0,1,180
+Meizu,18 Pro,2023,8,185,Dual,256,1000,0,"64 MP (rear), 20 MP (front)",4500,900,0,1,0,1,1,0,585
+ZTE,Axon 40 Pro,2023,8,180,Dual,256,900,0,"64 MP (rear), 32 MP (front)",4200,800,0,1,0,1,1,0,520
+Alcatel,5X,2023,4,160,Dual,64,200,0,"13 MP (rear), 8 MP (front)",3500,150,0,0,0,1,1,1,97.5
+Tecno,Camon 17 Pro,2023,8,185,Dual,128,250,0,"64 MP (rear), 16 MP (front)",4500,200,0,1,0,0,1,0,130
+itel,Vision 3 Pro,2023,4,160,Dual,32,100,0,"13 MP (rear), 5 MP (front)",4000,80,0,1,0,1,0,0,24

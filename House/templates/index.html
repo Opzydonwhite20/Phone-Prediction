@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phone Price Prediction</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            color: #343a40;
+            font-family: 'Arial', sans-serif;
+        }
+        .container {
+            margin-top: 50px;
+            max-width: 600px;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #007bff;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .form-group label {
+            font-weight: bold;
+        }
+        .btn-primary {
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            border: none;
+            font-size: 16px;
+            border-radius: 5px;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+        h3 {
+            text-align: center;
+            margin-top: 30px;
+            color: #28a745;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Phone Price Prediction</h1>
+        <form action="/predict" method="POST">
+            <div class="form-group">
+                <label for="year">Year</label>
+                <input type="number" class="form-control" id="year" name="year" required>
+            </div>
+            <div class="form-group">
+                <label for="ram">RAM (GB)</label>
+                <input type="number" class="form-control" id="ram" name="ram" required>
+            </div>
+            <div class="form-group">
+                <label for="weight">Weight (g)</label>
+                <input type="number" class="form-control" id="weight" name="weight" required>
+            </div>
+            <div class="form-group">
+                <label for="internal_memory">Internal Memory (GB)</label>
+                <input type="number" class="form-control" id="internal_memory" name="internal_memory" required>
+            </div>
+            <div class="form-group">
+                <label for="age">Age (Years)</label>
+                <input type="number" class="form-control" id="age" name="age" required>
+            </div>
+            <div class="form-group">
+                <label for="battery">Battery Capacity (mAh)</label>
+                <input type="number" class="form-control" id="battery" name="battery" required>
+            </div>
+            <div class="form-group">
+                <label for="launching_price">Launching Price (USD)</label>
+                <input type="number" class="form-control" id="launching_price" name="launching_price" required>
+            </div>
+            <div class="form-group">
+                <label for="warranty">Warranty (Years)</label>
+                <input type="number" class="form-control" id="warranty" name="warranty" required>
+            </div>
+            <div class="form-group">
+                <label for="repaired">Repaired (Yes/No)</label>
+                <input type="text" class="form-control" id="repaired" name="repaired" required>
+            </div>
+            <div class="form-group">
+                <label for="scratches">Scratches (Yes/No)</label>
+                <input type="text" class="form-control" id="scratches" name="scratches" required>
+            </div>
+            <div class="form-group">
+                <label for="accessories">Accessories Included (Yes/No)</label>
+                <input type="text" class="form-control" id="accessories" name="accessories" required>
+            </div>
+            <div class="form-group">
+                <label for="box">Original Box (Yes/No)</label>
+                <input type="text" class="form-control" id="box" name="box" required>
+            </div>
+            <div class="form-group">
+                <label for="condition">Condition (New/Used)</label>
+                <input type="text" class="form-control" id="condition" name="condition" required>
+            </div>
+            <div class="form-group">
+                <label for="brand">Brand</label>
+                <input type="text" class="form-control" id="brand" name="brand" required>
+            </div>
+            <div class="form-group">
+                <label for="model">Model</label>
+                <input type="text" class="form-control" id="model" name="model" required>
+            </div>
+            <div class="form-group">
+                <label for="sim">SIM Type</label>
+                <input type="text" class="form-control" id="sim" name="sim" required>
+            </div>
+            <div class="form-group">
+                <label for="average_price">Average Price (USD)</label>
+                <input type="number" class="form-control" id="average_price" name="average_price" required>
+            </div>
+            <div class="form-group">
+                <label for="camera">Camera (MP)</label>
+                <input type="number" class="form-control" id="camera" name="camera" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Predict</button>
+        </form>
+        {% if prediction_text %}
+            <h3>{{ prediction_text }}</h3>
+        {% endif %}
+    </div>
+</body>
+</html>
